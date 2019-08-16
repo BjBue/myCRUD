@@ -1,0 +1,10 @@
+# no configs
+/src/config
+
+# no dockers
+docker-compose.yml
+Dockerfile
+
+# no vscode files
+.vscode/
+

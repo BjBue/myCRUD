@@ -1,0 +1,13 @@
+!#/my/station
+hello from the stars
+
+starting:
+docker-compose up -d
+topping:
+docker-compose down
+
+
+connect to mysql
+ mysql -h 127.0.0.1 -P 9906 --protocol=tcp -u root -p
+
+ happy coding
